@@ -3,7 +3,7 @@
 # Project: FunctionalProgramming 
 # Software: PyCharm
 # Time    : 2018-09-20 12:21
-# File    : 4.文件处理-二进制模式.py
+# File    : 4-文件处理-二进制模式.py
 # Author  : 天晴天朗
 # Email   : tqtl@tqtl.org
 ""

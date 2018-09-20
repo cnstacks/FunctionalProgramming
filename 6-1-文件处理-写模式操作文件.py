@@ -3,7 +3,7 @@
 # Project: FunctionalProgramming 
 # Software: PyCharm
 # Time    : 2018-09-20 12:31
-# File    : 6-1文件处理-写模式操作文件.py
+# File    : 6-1-文件处理-写模式操作文件.py
 # Author  : 天晴天朗
 # Email   : tqtl@tqtl.org
 

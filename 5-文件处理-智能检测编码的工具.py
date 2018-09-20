@@ -3,7 +3,7 @@
 # Project: FunctionalProgramming 
 # Software: PyCharm
 # Time    : 2018-09-20 12:25
-# File    : 5.文件处理-智能检测编码的工具.py
+# File    : 5-文件处理-智能检测编码的工具.py
 # Author  : 天晴天朗
 # Email   : tqtl@tqtl.org
 ""
