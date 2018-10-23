@@ -24,3 +24,8 @@ stu_register("cxz", 26, course="计算机科学与技术", country="中国")
 stu_register("李亚辉", course="MBA", age=28)
 stu_register("石少普", 28, country="美国", course="文学")
 stu_register(26, "宋少璇", country="USA", course="商务礼仪", )
+"""
+小结：
+1、函数名=函数值,函数的参数就从位置参数转化为关键参数；
+2、默认参数是在定义函数时候，就已经指定参数值的参数；
+"""
